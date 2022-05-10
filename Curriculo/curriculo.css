@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+    text-transform: uppercase;
+        height: 100%;
+    border-bottom: 1pt;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-style: solid;
+        
+}
+*{
+    font-family: sans-serif;
+    
+   
+}
+p{
+    text-indent: 10px;
+}
